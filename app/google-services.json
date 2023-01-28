@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449966557686",
+    "project_id": "chat-app-c545d",
+    "storage_bucket": "chat-app-c545d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449966557686:android:fc1ebad873ab9272681fd7",
+        "android_client_info": {
+          "package_name": "com.jaytaravia.chatappinkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449966557686-ic7ibu7tqbs2aket3kblc7uch6labmtl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCiMN7PhKDVbP7jFxF3KXw1zTN5zNnhOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449966557686-ic7ibu7tqbs2aket3kblc7uch6labmtl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
